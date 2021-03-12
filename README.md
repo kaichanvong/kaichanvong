@@ -3,7 +3,7 @@
 - 👀 I’m interested in future CSS, different prog-langs, more 
 - 🌱 I’m currently learning about current video-games
 - 💞️ I’m looking to collaborate on ... with people I know (or people they know)
-- 📫 How to reach me here, try kaivong.com/contact
+- 📫 How to reach me here, try [my pages.github.com @ kaivong.com contact page](kaivong.com/contact 'goes to kaivong.com')
 
 <!---
 kaichanvong/kaichanvong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
