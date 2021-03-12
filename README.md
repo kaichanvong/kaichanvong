@@ -1,9 +1,9 @@
 
-- 👋 Hi, I’m @kaichanvong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kai on @kaichanvong
+- 👀 I’m interested in future CSS, different prog-langs, more 
+- 🌱 I’m currently learning about current video-games
+- 💞️ I’m looking to collaborate on ... with people I know (or people they know)
+- 📫 How to reach me here, try kaivong.com/contact
 
 <!---
 kaichanvong/kaichanvong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
