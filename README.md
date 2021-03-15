@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Kai on @kaichanvong
-- 🌱 I’m currently learning memorization techniques, about parallel universe computer-game design 
 - 👀 I’m interested in future CSS, different prog-langs, more 
+- 🌱 I’m currently learning memorization techniques, about parallel universe computer-game design 
 - 💞️ I’m looking to collaborate on anything web-based
 - 📫 How to reach me here, try [my pages.github.com @ kaivong.com contact page](https://www.kaivong.com/contact 'goes to kaivong.com')
 
