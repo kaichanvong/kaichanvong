@@ -1,9 +1,8 @@
-
-- 👋 Hi, I’m Kai on @kaichanvong
-- 👀 I’m interested in future CSS, different prog-langs, more 
-- 🌱 I’m currently learning memorization techniques, about parallel universe computer-game design 
+- 👋 Hi, I’m Kai on @kaichanvong --more-about-kai [on this personal website (different web-domain)](https://www.kaivong.com/about 'goes to kaivong.com')
+- 👀 I’m interested in communities, future-proof CSS, different prog-langs, computer-games 
+- 🌱 I’m currently learning about different computer-games 
 - 💞️ I’m looking to collaborate on anything web-based
-- 📫 How to reach me here, try [the email kaivong.com contact page](https://www.kaivong.com/contact 'goes to kaivong.com')
+- 📫 How to reach me? Here on github, you can also [email from the kaivong.com contact page](https://www.kaivong.com/contact 'goes to kaivong.com')
 
 <!---
 kaichanvong/kaichanvong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
