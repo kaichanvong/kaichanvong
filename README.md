@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kai on @kaichanvong --more-about-kai [on this personal website (different web-domain)](https://www.kaivong.com/about 'goes to kaivong.com')
+- 👋 Hi, I’m Kai --more-about-kai  # [on this personal website (different web-domain)](https://www.kaivong.com/about 'goes to kaivong.com')
 - 👀 I’m interested in communities, future-proof CSS, different prog-langs, computer-games 
 - 🌱 I’m currently learning about different computer-games 
 - 💞️ I’m looking to collaborate on anything web-based
