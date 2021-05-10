@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kai --more-about-kai  # [on this personal website (different web-domain)](https://www.kaivong.com/about 'goes to kaivong.com')
-- 💞️ I’m looking to collaborate on anything web-based
 - 👀 I’m interested in communities, future-proof CSS, different prog-langs, computer-games 
 - 📫 How to reach me? Here on github, you can also [email from the kaivong.com contact page](https://www.kaivong.com/contact 'goes to kaivong.com')
 
